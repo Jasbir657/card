@@ -233,6 +233,9 @@ html,body {
 
 .static-img  img {
 
+    position : absolute 
+    top : 0px;
+    left : 0px ;
     border-radius: 20px;
     height: 180px;
     width: 200px;
